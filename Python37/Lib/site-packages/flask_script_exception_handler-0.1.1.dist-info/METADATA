@@ -1,0 +1,27 @@
+Metadata-Version: 2.0
+Name: flask-script-exception-handler
+Version: 0.1.1
+Summary: Exception handler designed mainly to handle errors in a flask-script custom command.
+Home-page: https://github.com/Jaza/flask-script-exception-handler
+Author: Jeremy Epstein
+Author-email: jazepstein@gmail.com
+License: UNKNOWN
+Platform: any
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Requires-Dist: werkzeug
+
+flask-script-exception-handler
+==============================
+
+Exception handler designed mainly to handle errors in a flask-script custom command.
+
+
+
